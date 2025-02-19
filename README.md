@@ -1,4 +1,3 @@
-```markdown
 # Frontend Setup - Todo List App
 
 ## Overview
